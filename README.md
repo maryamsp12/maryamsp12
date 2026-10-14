@@ -1,18 +1,45 @@
-Hi there 👋 The Name's Maryam Tufail
+# Hi there 👋, I'm Maryam Tufail
 
-🌱 I’m addicted to learning and growing every day
-🚀 An aspiring software engineer
-💪 Confident in technical skills and ready to tackle challenges together with an agile team
-🧠 Having a curious mind for learning and trying out new things, as well as finding creative solutions
-✨ Great passion for work and always tries to do things better
-====================================================================================
+👩‍💻 **Software Engineer | React · TypeScript · JavaScript**
 
-Skills:
+I'm a frontend-focused Software Engineer with experience building and maintaining production SaaS applications. I enjoy creating reusable UI components, integrating REST APIs, and modernising legacy codebases using React and TypeScript.
 
-Specialties:  JavaScript (ES6) | React | TypeScript | Jquery | Front End Development | HTML5 & CSS3 | Material UI | Bootstrap | GraphQL | GitHub | Back End Development | Full Stack Development
-====================================================================================
+🌱 Continuously learning and exploring new technologies  
+🚀 Interested in building reliable, maintainable, and user-friendly applications  
+🤝 Enjoy collaborating with cross-functional teams and solving technical challenges  
+🧩 Experienced in modernising legacy frontend applications while maintaining production stability  
+✨ Committed to writing clean code and continuously improving my engineering skills  
 
-Contact Me
+---
 
-📧 maryamsp12@gmail.com
-🏢 https://www.linkedin.com/in/maramtufail/
+### 🛠️ Technical Skills
+
+**Frontend:** React, TypeScript, JavaScript (ES6+), HTML5, CSS3, Redux, Zustand
+
+**UI Libraries:** Material UI, Bootstrap
+
+**APIs:** REST API integration
+
+**Tools:** Git, GitHub, GitHub Actions
+
+**Legacy Technologies:** jQuery
+
+**Currently Learning:** Java, Node.js, SQL and full-stack development
+
+---
+
+### 🚀 Featured Project
+
+**Game Store** — A video game discovery application built with React, TypeScript, Vite, Material UI, and the RAWG API.
+**Rivervault Control Room**  — A real-time energy monitoring dashboard built with React, TypeScript, Zustand, Material UI, and TanStack Virtual. Simulating 1,000+ live sensor and market time series while keeping unrelated UI components from re-rendering.
+
+🔗 [Explore my repositories](https://github.com/maryamsp12)
+
+---
+
+### 📫 Let's Connect
+
+- 📧 Email: maryamsp12@gmail.com
+- 💼 LinkedIn: [Maryam Tufail](https://www.linkedin.com/in/maryam-tufail-finland/)
+- 💻 GitHub: [@maryamsp12](https://github.com/maryamsp12)
+
