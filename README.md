@@ -31,6 +31,7 @@ I'm a frontend-focused Software Engineer with experience building and maintainin
 ### 🚀 Featured Project
 
 **Game Store** — A video game discovery application built with React, TypeScript, Vite, Material UI, and the RAWG API.
+
 **Rivervault Control Room**  — A real-time energy monitoring dashboard built with React, TypeScript, Zustand, Material UI, and TanStack Virtual. Simulating 1,000+ live sensor and market time series while keeping unrelated UI components from re-rendering.
 
 🔗 [Explore my repositories](https://github.com/maryamsp12)
