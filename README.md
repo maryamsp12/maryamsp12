@@ -43,5 +43,5 @@ I'm a frontend-focused Software Engineer with experience building and maintainin
 - 💼 LinkedIn: [Maryam Tufail](https://www.linkedin.com/in/maryam-tufail-finland/)
 - 💻 GitHub: [@maryamsp12](https://github.com/maryamsp12)
 
-![Zohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirzazohaib)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirzazohaib)   
+![Maryam's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryamsp12)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maryamsp12)   
